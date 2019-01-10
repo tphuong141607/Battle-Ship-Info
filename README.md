@@ -1,4 +1,6 @@
 # Battle Ship Info Program (C Language)
+Created on 2/1/2018
+
 ## What is it?
 A piece of code that stores the entered Battle Ship information and performs simple calculations.
 
